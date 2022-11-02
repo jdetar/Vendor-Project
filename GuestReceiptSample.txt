@@ -1,0 +1,19 @@
+          FOOD VENDOR
+
+
+ : Guest, Rewards: 0
+Receipt #: 1001
+Thu, 10/05/20, 10:12:04 PM
+
+Items                      Price 
+--------------------------------
+Cajun                     $16.70
+Fish                      $ 7.99
+Sprite                    $19.20
+--------------------------------
+                  Total:  $43.89
+
+Credit card: xxxx xxxx xxxx 8888
+
+Your order will be ready in : 12 mins
+Thank you for your order!

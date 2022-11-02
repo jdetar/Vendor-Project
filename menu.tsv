@@ -1,0 +1,34 @@
+category	item_name	description	price	prep_time	available
+Sandwiches	Ham	Classic ham sandwich	5.99	10	1
+Sandwiches	Chicken salad	Chicken salad sandwich	6.99	10	1
+Sandwiches	Grilled cheese	Grilled cheese sandwich	4.99	10	0
+Sandwiches	Hamburger	Classic hamburger	7.99	10	0
+Sandwiches	Cheeseburger	Classic cheeseburger	8.99	10	1
+Salads	Caesar	Chunks of romaine heart lettuce dressed with lemon juice.	9.99	8	1
+Salads	Asian	Mixed greens with ginger dressing, sprinkled with sesame.	9.99	8	0
+Salads	Cajun	Chopped kale with creamy Cajun dressing.	9.99	8	1
+Salads	Garden	Iceberg lettuce dressed with olive oil and vinegar.	6.99	8	0
+Drinks	Water	16oz bottled water	2.99	2	1
+Drinks	Coca-Cola	16oz Coca-Cola	3.99	2	1
+Drinks	Pepsi	16oz Pepsi	3.99	2	1
+Drinks	Sprite	16oz Sprite	3.99	2	1
+Mexican food	Chicken tacos	Grilled chicken breast in freshly made tortillas.	8.99	12	0
+Mexican food	Beef tacos	Ground beef in freshly made tortillas.	9.99	12	1
+Mexican food	Enchiladas	Beef cnchilada in special enchilada sauce.	10.99	12	1
+Mexican food	Nachos	Nachos and cheese	6.99	12	0
+Mexican food	Chips & salsa	Tortilla chips with freshly made salsa.	5.99	12	1
+Vegetarian	Tofu sandwich	Sliced firm tofu with special miso sauce.	8.99	10	0
+Vegetarian	Avocado sandwich	Sliced avocado with fruity spread.	8.99	10	0
+Vegetarian	Veggie sub	Big sub stuffed with seasonal vegetables.	9.99	10	1
+Vegetarian	Black bean soup	Our famous slow cooked black bean soup.	8.99	5	1
+Sandwiches_option	Fries	Potato french fries	2.99	0	1
+Sandwiches_option	Onion rings	Freshly fried onion rings!	2.99	0	1
+Sandwiches_option	Cookie	Special chocolate chip cookie	2.99	0	1
+Salads_option	Chicken	Add charbroiled chicken strips to your salad.	5.99	2	1
+Salads_option	Beef	Add a charbroiled tri-tip steak to your salad.	6.99	2	1
+Salads_option	Fish	Add a charbroiled salmon fillet to your salad.	7.99	2	1
+Mexican_option	Guacamole	Try our homemade guacamole from a secret recipe!	2.99	0	1
+Mexican_option	Rice & beans	Add a side of rice and beans to fill you up.	2.99	0	1
+Vegetarian_option	Baked potato	Yukon gold potato seasoned with herbs.	2.99	0	1
+Vegetarian_option	Fruit cup	Freshly sliced fruit of the season.	2.99	0	1
+Vegetarian_option	Corn	Corn on the cob.	2.99	0	1

@@ -1,0 +1,25 @@
+       FOOD VENDOR
+
+
+Gwion Warner: gwarner653, Rewards: 30
+Receipt #: 4
+Mon, 10/02/19, 12:32:00 PM
+
+Items                     Price 
+
+--------------------------------
+cheeseburger              $15.20
+sw_option1                $ 3.00
+Black bean soup           $23.70
+v_option3                 $ 3.00
+sprite                    $19.20
+--------------------------------
+               Subtotal:  $64.10
+                 Reward: -$ 3.00
+--------------------------------
+                  Total:  $61.10
+
+You've earned 6 in this order!
+
+Your order will be ready in : 17 mins
+Thank you for your order!
